@@ -23,6 +23,5 @@ Third, calculate and output the number of 1 gallon cans needed to paint the wall
    C:\Users\moham\AppData\Roaming\JetBrains\PyCharmCE2020.1\scratches\lab 5.2.py
 
 ```
-
-## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+## Thanks 
+     I worked on that by my self.
