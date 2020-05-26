@@ -1,6 +1,6 @@
 # CNA340_Mohammad
 # Project Title
-<<<<<<< HEAD
+
 this the project of Zybook lab 5.2. 
 For this project, the user will input a wall's height and width. Calculate and output the wall's area.
 Second, calculate and output the amount of paint in gallons needed to paint the wall (floating point). Assume a gallon of paint covers 350 square feet. Store this value in a variable. Output the amount of paint needed using the %f conversion specifier.
